@@ -14,7 +14,7 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
     <td><a href=https://github.com/ddzhioeva/data_science_projects/blob/main/Customer%20Churn%20Prediction%20for%20a%20Telecommunications%20Company/Customer%20Churn%20Prediction%20for%20a%20Telecommunications%20Company.ipynb>Customer Churn Prediction for a Telecommunications Company</a></td>
     <td>Telecom</td>
     <td>A telecommunications company is facing a problem: they need to predict in advance how many customers may churn each month in order to retain them and increase their customer lifetime value (LTV). Such a model would enable the business to plan marketing campaigns and improve the target metric - customer lifetime value - which allows assessing the financial value of a customer.</td>
-    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data processing, duplicates, missing values, categorization, decomposition, CatBoost, xgboost</td>
+    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data processing, duplicates, missing values, Machine Learning, decomposition, CatBoost, xgboost</td>
   </tr>
   <tr>
     <td><a href=https://github.com/ddzhioeva/Projects/tree/main/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company>Analysis of the real estate market in St. Petersburg</a></td>
