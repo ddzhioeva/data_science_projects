@@ -1,5 +1,6 @@
 # Data Science Projects
 Repository containing a portfolio of Data Science projects completed by Daria Dzhioeva during the Yandex.Praktikum bootcamp
+
   <a href="https://github.com/ddzhioeva/data_science_projects/blob/main/dzhioeva%20cert.pdf"><b>Bootcamp Certificate</b> :mortar_board: </a><br>
 
 <table width=100% valign=top >
