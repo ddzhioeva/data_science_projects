@@ -11,10 +11,10 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
     <td width=20%>Libraries</td>
   </tr>
   <tr>
-    <td><a href=https://github.com/ddzhioeva/Projects/tree/main/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company>Determination of the reliability of borrowers - analysis of banking data</a></td>
-    <td>Banking, lending</td>
-    <td>Based on the data from the bank's credit department, I analyzed the influence of marital status and the number of children on the timely repayment of loans. Information about the data was obtained. Missing values were identified and processed. Data types were replaced with the ones corresponding to the stored data. Duplicates were removed. The data was categorized. One dataframe was decomposed into three.</td>
-    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data processing, duplicates, missing values, categorization, decomposition</td>
+    <td><a href=https://github.com/ddzhioeva/Projects/tree/main/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company>Customer Churn Prediction for a Telecommunications Company</a></td>
+    <td>Telecom</td>
+    <td>A telecommunications company is facing a problem: they need to predict in advance how many customers may churn each month in order to retain them and increase their customer lifetime value (LTV). Such a model would enable the business to plan marketing campaigns and improve the target metric - customer lifetime value - which allows assessing the financial value of a customer.</td>
+    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, data processing, duplicates, missing values, categorization, decomposition, CatBoost, xgboost</td>
   </tr>
   <tr>
     <td><a href=https://github.com/ddzhioeva/Projects/tree/main/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company>Analysis of the real estate market in St. Petersburg</a></td>
