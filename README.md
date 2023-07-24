@@ -19,7 +19,7 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
   <tr>
     <td><a href="https://github.com/ddzhioeva/data_science_projects/blob/main/Customer%20Age%20Determination/Customer%20Age%20Determination.ipynb">Customer Age Determination</a></td>
     <td>Retail</td>
-    <td>The goal of this project is to develop a robust machine-learning model that can accurately predict the age of individuals based on their photos. The dataset contains a collection of photos, each associated with the age of the person depicted in the image. We will utilize various tools and libraries, such as Pandas for data manipulation, Keras for deep learning, Matplotlib and Seaborn for data visualization, and Computer Vision techniques for image analysis.</td>
+    <td>The goal of this project is to develop a robust machine-learning model that can accurately predict the age of individuals based on their photos. The dataset contains a collection of photos, each associated with the age of the person depicted in the image. I will utilize various tools and libraries, such as Pandas for data manipulation, Keras for deep learning, Matplotlib and Seaborn for data visualization, and Computer Vision techniques for image analysis.</td>
     <td>Pandas, Keras, Matplotlib, Seaborn, Computer Vision, Machine Learning</td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
   <tr>
      <td><a href="https://github.com/ddzhioeva/data_science_projects/blob/main/Determining%20Car%20Prices/Determining%20Car%20Prices.ipynb">Determining Car Prices</a></td>
     <td>Online Service</td>
-    <td>The "Non-Accident, Non-Painted" used car sales service aims to provide its customers with an efficient and accurate way to estimate the market value of their vehicles. By leveraging historical data on car technical specifications, configurations, and prices, we can develop a reliable model to predict car prices. This will not only attract new customers to the platform but also enhance their overall experience by providing valuable insights into their car's market value.</td>
+    <td>The "Non-Accident, Non-Painted" used car sales service aims to provide its customers with an efficient and accurate way to estimate the market value of their vehicles. By leveraging historical data on car technical specifications, configurations, and prices, I develop a reliable model to predict car prices. This will not only attract new customers to the platform but also enhance their overall experience by providing valuable insights into their car's market value.</td>
     <td>Pandas, Matplotlib, Numpy, Seaborn, Machine Learning,Catboost,sklearn, xgboost, tqdm, missingno </td>
   </tr>
   <tr>
@@ -49,7 +49,7 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
   <tr>
          <td><a href="https://github.com/ddzhioeva/data_science_projects/blob/main/The%20real%20estate%20marketing%20research/The%20real%20estate%20marketing%20research.ipynb">The real estate marketing research</a></td>
     <td>Real Estate, Online Service</td>
-    <td>The real estate marketing research	Research analysis and data preprocessing for a dataset with advertisements for selling apartments in St. Petersburg have been carried out. The influence of the area, ceilings, the number of rooms, and the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for constructing an automated system for determining costs to avoid fraud and anomalies were revealed.</td>
+    <td>Research analysis and data preprocessing for a dataset with advertisements for selling apartments in St. Petersburg have been carried out. The influence of the area, ceilings, the number of rooms, and the date of announcement on the prices of apartments in all the presented settlements and the center of St. Petersburg for constructing an automated system for determining costs to avoid fraud and anomalies were revealed.</td>
     <td>Python, Pandas, Matplotlib, data preprocessing, data analysis, business analysis </td>
   </tr>
   <tr>
@@ -67,13 +67,14 @@ Repository containing a portfolio of Data Science projects completed by Daria Dz
   <tr>
                <td><a href="https://github.com/ddzhioeva/data_science_projects/blob/main/Machine%20Learning%20Model%20for%20tariff%20recommendation/Machine%20Learning%20Model%20for%20tariff%20recommendation.ipynb">Machine Learning Model for tariff recommendation</a></td>
     <td>Telecom</td>
-    <td>We have been provided data on customers' behavior who have already switched to mobile tariffs. It would be best if we built a model for the classification problem that will select the appropriate rate. Data preprocessing is not required - the data is already preprocessed. It is crucial to achieve an accuracy of at least 0.75.</td>
+    <td>
+I received a dataset that holds valuable information about customers who have already switched to mobile tariffs. My main goal is to develop a classification model that can accurately select the appropriate rate for each customer. </td>
     <td>Python, Pandas, SciPy, NumPy, Random, Sklearn, Matplotlib, Machine Learning, data preprocessing, model test learning</td>
   </tr>
   <tr>
                  <td><a href="https://github.com/ddzhioeva/data_science_projects/blob/main/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company/Determination%20of%20a%20profitable%20plan%20for%20a%20telecom%20company.ipynb">Determination of a profitable plan for a telecom company</a></td>
     <td>Telecom</td>
-    <td>We conducted a marketing research project for a telecom company to optimize their tariff plans and improve customer experience. Our analysis revealed that many customers were using outdated rates. By studying customer behavior, we recommended optimal benefit packages and tested revenue differences between subscribers on various tariffs and from different regions. As a result, we identified an excellent tariff plan to optimize the advertising budget.</td>
+    <td>Based on the data of the mobile operator's customers, I conducted an in-depth analysis of customer behavior. Through this analysis, I successfully identified the optimal plan for the company. The data-driven insights gained from studying customer patterns and preferences enabled us to make informed decisions about the most suitable mobile plans to offer. By implementing the recommended optimal plan, the company can expect to enhance customer satisfaction and loyalty, while also maximizing revenue and market competitiveness.</td>
     <td>Python, Pandas, SciPy, NumPy, exploratory data analysis, data visualization, data preprocessing, math, machine learning</td>
   </tr>
   <tr>
